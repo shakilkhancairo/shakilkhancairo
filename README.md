@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Shakil Khan Cairo!
+# 👋 Hello, I'm Shakil Khan !
 
 🎓 **CSE Student** | 💻 **Aspiring Software Developer** | 🌐 **Tech Enthusiast**
 
