@@ -8,7 +8,7 @@
 I'm currently pursuing my degree in Computer Science and Engineering. I love exploring the world of coding, algorithms, and all things tech. My primary interests lie in software development and contributing to open-source projects.
 
 ## 🔧 Technologies & Tools
-- **Languages**: C, C++, Python,
+- **Languages**: C, C++, Dart,
 - **Web Development**: HTML, CSS,
 - **Databases**: 
 - **Other Tools**: Git, VS Code, Docker
